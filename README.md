@@ -1,4 +1,4 @@
-Ricostruzione del famoso flappy bird su unity; 
+Ricostruzione del famoso flappy bird su unity
 
 COMANDI: Premi {barra spaziatrice} per saltare
 
