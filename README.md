@@ -1,6 +1,5 @@
-Ricostruzione del famoso flappy bird su unity
-
-COMANDI: Premi {barra spaziatrice} per saltare
-
-Sono da implementare altri piccoli aspetti, come la fuoriuscita dai bordi e l'eventuale sconfitta, il menù di avvio o il menù per fermare il gioco ed uscire.
-Assets ed elementi sono stati creati utilizzando Piskel. Enjoy <3 
+Jumping Bird
+Il progetto in questione è una ricostruzione del famoso gioco sviluppato per IOS Flappy Bird, realizzato utilizzando l'IDE di sviluppo Unity (Ver: 2021.3.13f1). Gli assets e gli elementi sono stati realizzati grazie al sito Piskel, per permettere al personaggio di saltare basta premere la barra spaziatrice sul vostro dispositivo; sono da implementare il menù di start e l'eventuale menù per uscire o fermare il gioco.
+Per la realizzazione è stato preso come spunto il video di Game Maker's Toolkit
+Github Game Maker's Toolkit: https://github.com/Britishgaming
+Enjoy <3 
